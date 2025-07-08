@@ -7,3 +7,5 @@ console.log(model)
     name: "lola",
     edad:30
  }
+
+ console.log(user)

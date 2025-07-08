@@ -5,5 +5,5 @@ const MOKIE_VIDEOS =[
     }
 ]
 
-//modulo para exportar los objetosss
+//estamos exportando el objeto mokie
 module.exports = {MOKIE_VIDEOS}
