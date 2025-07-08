@@ -1,3 +1,3 @@
 //arra de users
 
-const users =[{name: "juana"}]
+const users =[{name: "juana"},{human:true}]
